@@ -36,6 +36,9 @@ Ade Kurniawan                                 Mahasiswa S1																						
 Agus Yuliyanto                                Mahasiswa S1																													  `agusyuliyanto12 <https://github.com/agusyuliyanto12>`_
 Ramses Parulian Sinaga                        Mahasiswa S1																													  `ramsesparulian <https://github.com/ramsesparulian>`_
 Joko Wahono								      Mahasiswa S1																													  `jokowahono2 <https://github.com/jokowahono2>`_
+Rahmat Saputra								  Mahasiswa S1																													  `rahmatsptr <https://github.com/rahmatsptr>`_
+Jufri yusuf									  Mahasiswa S1																													  `jufriyusuf <https://github.com/jufriyusuf>`_
+Novi Yana									  Mahasiswa S1                                                                                                                    `noviyana25 <https://github.com/noviyana25>`_
 ============================================  =============  ===================  ======================================  ==================================================  ========================================================  ==============================================================  =========================================
 
 Cakalang Robo Fish
